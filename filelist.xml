@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="GunLights Remade" path="Mods/GunLights Remade/filelist.xml" corepackage="false" gameversion="0.15.13.0" steamworkshopid="2498918103" installtime="1637104697">
+<contentpackage name="GunLights Remade" path="Mods/GunLights Remade/filelist.xml" corepackage="false" gameversion="0.15.12.0" steamworkshopid="2498918103" installtime="1635453336">
   <Item file="Mods/GunLights Remade/weapons.diff.xml" />
   <Item file="Mods/GunLights Remade/securityofficer_talent_items.diff.xml" />
   <Item file="Mods/GunLights Remade/captain_talent_items.diff.xml" />
   <Item file="Mods/GunLights Remade/engineer_talent_items.diff.xml" />
-  <None file="Mods/GunLights Remade/button.png" />
 </contentpackage>
