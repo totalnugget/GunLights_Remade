@@ -9,7 +9,7 @@
       </LightComponent>
 
       <CustomInterface canbeselected="false" drawhudwhenequipped="true" allowuioverlap="true">
-        <GuiFrame relativesize="0.07,0.05" anchor="BottomCenter" pivot="BottomRight" relativeoffset="-0.145,0.093" style="ItemUI" /> <!-- -0.145,0.023 -->
+        <GuiFrame relativesize="0.07,0.05" anchor="BottomCenter" pivot="BottomRight" relativeoffset="-0.145,0.133" style="ItemUI" /> <!-- -0.145,0.023 -->
         <TickBox text="Flash">
           <StatusEffect type="OnUse" targettype="This" IsOn="true" />
           <StatusEffect type="OnSecondaryUse" targettype="This" IsOn="false" />
